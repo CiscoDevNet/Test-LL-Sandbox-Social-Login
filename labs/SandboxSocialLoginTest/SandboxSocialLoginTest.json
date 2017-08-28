@@ -1,0 +1,17 @@
+{
+  "labId": "SandboxSocialLoginTest",
+  "title": "Sandbox: SocialLoginTest",
+  "byod": false,
+  "time": 1,
+  "slug": "This lab is for TESTING ONLY.  It should NOT be accessible to general DevNet Users.  For deployment on Learning Labs STAGE environment only!!",
+  "tags": [
+	{"title": "Sandbox Social Login Test"}
+  ],
+  "files": [
+    {"title": "1.md"}
+  ],
+  "authors": [
+  	{"name": "Dan Klingler", "email": "daklinge@cisco.com"}
+  ],
+  "active": false
+}
